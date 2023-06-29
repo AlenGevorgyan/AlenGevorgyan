@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlenGevorgyan
+- 👀 I’m interested in programming and sports
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on Google or create my company
