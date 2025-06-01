@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @AlenGevorgyan
-- 👀 I’m interested in programming and sports
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Google or create my company
+👋 Hi, I’m Alen Gevorgyan  
+👀 Passionate about programming and sports  
+🌱 Currently learning SQL (Basics)  
+🚀 Aspiring to work at Google or build my own tech company  
+💡 Always open to collaboration and learning  
+💻 Programming Languages: Python, Java, C# (Advanced)  
+🌍 Spoken Languages: English (Intermediate), Armenian (Native), Russian (Fluent)
